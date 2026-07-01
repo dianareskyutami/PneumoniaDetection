@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Pneumonia Detection</string>
+
+    <string name="title">Pneumonia Detection</string>
+
+    <string name="subtitle">Chest X-Ray Classification using MobileNetV2</string>
+
+    <string name="choose_image">Pilih Gambar</string>
+
+    <string name="predict">Prediksi</string>
+
+    <string name="prediction">Hasil Prediksi</string>
+
+    <string name="confidence">Confidence</string>
+
+    <string name="placeholder">-</string>
+
+    <string name="preview">Preview Gambar X-Ray</string>
+
+</resources>
